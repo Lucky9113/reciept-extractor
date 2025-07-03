@@ -3,3 +3,6 @@ opencv-python
 pdf2image
 pandas
 PyPDF2
+Pillow
+numpy
+nltk
